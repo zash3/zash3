@@ -10,8 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Data Analysis
 - 🤔 I’m looking for help with ... AI
 - 💬 Ask me about ... Telecommunication Engineer, Data Analyst
-- 📫 How to reach me: ... LinkedIn
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/ziyad-alshawi/)
+
+<!--
 - 😄 Pronouns: ... he/him
-<--
 - ⚡ Fun fact: ... 
 -->
