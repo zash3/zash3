@@ -1,10 +1,10 @@
 ### Here are some ideas about me:
 
-- 🔭 I’m currently working on ... Udacity Data Analyst Nanodegree
-- 🌱 I’m currently learning ... Data Visualization
-- 👯 I’m looking to collaborate on ... Data Analysis
+- 🔭 I’m currently working on ... Udacity data analyst nanodegree
+- 🌱 I’m currently learning ... Data visualization
+- 👯 I’m looking to collaborate on ... Data analysis
 - 🤔 I’m looking for help with ... Machine learning
-- 💬 Ask me about ... Telecommunication Engineer, Data Analyst
+- 💬 Ask me about ... Telecommunication engineer, Data analyst
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/ziyad-alshawi/)
 
 
