@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Data visualization
 - 👯 I’m looking to collaborate on ... Data analysis
 - 🤔 I’m looking for help with ... Machine learning
-- 💬 Ask me about ... Telecommunication engineer, Data analyst
+- 💬 Ask me about ... Data analysis
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/ziyad-alshawi/)
 
 
