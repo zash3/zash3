@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Data analysis
 - 🤔 I’m looking for help with ... CCNA
 - 💬 Ask me about ... Data analysis
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/ziyad-alshawi/)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/zalshawi/)
 
 
 <!--
