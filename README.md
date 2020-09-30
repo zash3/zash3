@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on ... Data Analysis
 - 🌱 I’m currently learning ... Data visualization
-- 👯 I’m looking to collaborate on ... Data analysis
-- 💬 Ask me about ... Data analysis
+- 👯 I’m looking to collaborate on ... Data Analysis
+- 💬 Ask me about ... Data Analysis
 
 
 <!--
