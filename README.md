@@ -1,9 +1,10 @@
 ### Here are some ideas about me:
 
-- 🔭 I’m currently working on ... Data Analysis
-- 🌱 I’m currently learning ... Data visualization
-- 👯 I’m looking to collaborate on ... Data Analysis
+- 🔭 I’m currently working on ... Data Science
+- 🌱 I’m currently learning ... Data Mining
+- 👯 I’m looking to collaborate on ... Data report and Dashboard
 - 💬 Ask me about ... Data Analysis
+- ⚡ Tools ... Jupyter notebook and Power BI 
 
 
 <!--
