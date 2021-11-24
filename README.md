@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Data Mining
 - 👯 I’m looking to collaborate on ... Data report and Dashboard
 - 💬 Ask me about ... Data Analysis
-- ⚡ Tools ... Jupyter notebook and Power BI 
+- ⚡ Tools ... Jupyter, Power BI, Excel, MySQL
 
 
 <!--
