@@ -8,8 +8,7 @@ Interested in data analysis & machine learning. Proactive and keen to learn & de
 
 * 🌍  I'm based in Riyadh, SA
 * ✉️  You can contact me at [zalshawi@gmail.com](mailto:zalshawi@gmail.com)
-* 🚀  I'm currently working at National Water Company as Data Analyst
-* 🌱  I’m currently practicing SQL quiries
+* 🌱  Currently practicing SQL queries
 * ⚡  Always seeking out new responsibilities and learning opportunities.
 
 
