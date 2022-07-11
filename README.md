@@ -6,14 +6,9 @@ Data Analyst
 
 Interested in data analysis & machine learning. Proactive and keen to learn & develop myself.
 
-* 🌍  I'm based in Riyadh, SA
-* ✉️  You can contact me at [zalshawi@gmail.com](mailto:zalshawi@gmail.com)
+* 🌍  I'm based in Riyadh, SA 
 * 🌱  Currently practicing SQL queries
 * ⚡  Always seeking out new responsibilities and learning opportunities.
-
-[![Linkedin Badge](https://img.shields.io/badge/-zalshawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zalshawi/)](https://www.linkedin.com/in/zalshawi/)
-[![Gmail Badge](https://img.shields.io/badge/-zalshawi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zalshawi@gmail.com)](mailto:zalshawi@gmail.com)
-
 
 ### Skills
 
@@ -27,6 +22,7 @@ Interested in data analysis & machine learning. Proactive and keen to learn & de
 </p>
 
 
-### Socials
+### Feel free to contact me ✉️
 
-<p align="left"> <a href="https://www.linkedin.com/in/zalshawi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-zalshawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zalshawi/)](https://www.linkedin.com/in/zalshawi/)
+[![Gmail Badge](https://img.shields.io/badge/-zalshawi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zalshawi@gmail.com)](mailto:zalshawi@gmail.com)
