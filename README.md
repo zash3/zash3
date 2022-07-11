@@ -12,7 +12,7 @@ Interested in data analysis & machine learning. Proactive and keen to learn & de
 * ⚡  Always seeking out new responsibilities and learning opportunities.
 
 [![Linkedin Badge](https://img.shields.io/badge/-zalshawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zalshawi/)](https://www.linkedin.com/in/zalshawi/)
-[![Gmail Badge](https://img.shields.io/badge/-zalshawi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zalshawi@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/-zalshawi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zalshawi@gmail.com)](mailto:zalshawi@gmail.com)
 
 
 ### Skills
