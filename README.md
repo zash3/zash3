@@ -5,7 +5,6 @@ Hi, I'm Ziyad Alshawi
 
 Interested in data analysis & machine learning. Proactive and keen to learn & develop myself.
 
-* 🌍  I'm based in Riyadh, SA 
 * 🌱  Currently practicing SQL queries
 * ⚡  Always seeking out new responsibilities and learning opportunities.
 
