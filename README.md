@@ -1,9 +1,9 @@
 Hi, I'm Ziyad Alshawi
 ======================
-[![Linkedin Badge](https://img.shields.io/badge/-zalshawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zalshawi/)](https://www.linkedin.com/in/zalshawi/)
-[![Gmail Badge](https://img.shields.io/badge/-zalshawi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zalshawi@gmail.com)](mailto:zalshawi@gmail.com)
 Data Analyst
 -------------------------------------------
+[![Linkedin Badge](https://img.shields.io/badge/-zalshawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zalshawi/)](https://www.linkedin.com/in/zalshawi/)
+[![Gmail Badge](https://img.shields.io/badge/-zalshawi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zalshawi@gmail.com)](mailto:zalshawi@gmail.com)
 
 Interested in data analysis & machine learning. Proactive and keen to learn & develop myself.
 
@@ -20,8 +20,3 @@ Interested in data analysis & machine learning. Proactive and keen to learn & de
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
-
-
-### Feel free to contact me ✉️
-
-
