@@ -5,7 +5,7 @@ Hi, I'm Ziyad Alshawi
 
 Interested in data analysis & machine learning. Proactive and keen to learn & develop myself.
 
-* 🌱  Currently practicing SQL queries
+* 🌱  Currently reviewing python for data manipulation
 * ⚡  Always seeking out new responsibilities and learning opportunities.
 
 ### Skills
