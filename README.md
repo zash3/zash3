@@ -17,9 +17,5 @@ Welcome to my GitHub! I'm diving into **Data Engineering**, with a keen interest
 </p>
 
 
-## Projects
-- **Coming Soon**: Working on data platform projects to showcase here!  
-  *Ideas*: Using Python and open source tools to create Informatica Alternative to support Data Management and governance.
-
 ## Connect with Me
 Interested in data engineering projects, hackathons, or studying together? Let's connect!
