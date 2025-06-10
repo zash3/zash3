@@ -1,12 +1,10 @@
-Hi, I'm Ziyad Alshawi
+Hi, I'm Ziyad
 ====================== 
-[![Linkedin Badge](https://img.shields.io/badge/-zalshawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zalshawi/)](https://www.linkedin.com/in/zalshawi/)
 
-
-Interested in data analysis & machine learning. Proactive and keen to learn & develop myself.
+Interested in Data Engineering, ETL, Data Warehouse/Lake, Big Data (HDFS, Pyspark, Kafka, Airflow, ..). Proactive and keen to learn & develop myself.
 
 * 🌱  Currently reviewing python for data manipulation
-* ⚡  Always seeking out new responsibilities and learning opportunities.
+* ⚡  Always seeking out collaboration opportunities.
 
 ### Skills
 
